@@ -1,0 +1,24 @@
+input{
+    width: 250px;
+    height: 5px;
+    padding: 10px;
+    margin:20px;
+    border-radius: 8px;
+    box-shadow: 4px 8px 25px rgb(9, 180, 242) ;
+}
+label{
+    font-size: 25px;
+}
+input[type="radio"]{
+    width: 20px;
+    height: 20px;
+    box-shadow: 4px 8px 25px rgb(250, 250, 250) ;
+
+}
+input[type="datetime-local"]{
+    box-shadow: 4px 8px 25px rgb(249, 46, 212) ;
+}
+input[type="file"]{
+    box-shadow: 4px 8px 25px rgb(251, 251, 251) ;
+    
+}
